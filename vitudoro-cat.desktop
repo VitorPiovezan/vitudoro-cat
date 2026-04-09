@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vitudoro Cat
+Comment=Pet virtual com pomodoro
+Exec=vitudoro-cat
+Icon=vitudoro-cat
+Type=Application
+Categories=Utility;
+StartupNotify=false
+Terminal=false
