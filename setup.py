@@ -13,6 +13,7 @@ setup(
     entry_points={
         "console_scripts": [
             "vitudoro-cat=vitudoro_cat.main:main",
+            "vitudoro-cat-settings=vitudoro_cat.main:open_settings_remote",
         ],
     },
     python_requires=">=3.8",

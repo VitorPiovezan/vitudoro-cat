@@ -61,6 +61,20 @@ Depois e so rodar `vitudoro-cat` ou encontrar "Vitudoro Cat" no menu de aplicati
 - Clique direito no gato: abrir configuracoes (ou parar perseguicao se ativa)
 - Tray icon (bandeja do sistema): clique pra configuracoes, botao direito pro menu
 
+### Abrir configuracoes via terminal
+
+Se o tray icon nao funcionar no seu desktop:
+
+```bash
+python3 -m vitudoro_cat.main --settings
+```
+
+Ou se instalou via `install.sh`:
+
+```bash
+vitudoro-cat --settings
+```
+
 ## Sprites
 
 - 0-3: animacao de andar
